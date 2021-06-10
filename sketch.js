@@ -8,7 +8,8 @@ var ground, ball;
 var box1, box2, box3, box4, box5;
 var pig1, pig2;
 var log1, log2, log3, log4, log5;
-var bird,platform;
+var bird;
+var platform;
 var bgImg;
 
 function preload(){
